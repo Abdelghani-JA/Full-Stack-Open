@@ -1,2 +1,6 @@
 # Full-Stack-Open
-My submissions for Full Stack Open course
+My submissions for Full Stack Open course.
+
+The course is about building single page applications with ReactJS that use REST APIs built with Node.js.
+
+About : https://fullstackopen.com/en/about
