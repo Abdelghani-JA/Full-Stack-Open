@@ -1,4 +1,4 @@
-# something
+
 ```mermaid
 sequenceDiagram
     participant browser
