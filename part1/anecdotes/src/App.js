@@ -30,8 +30,6 @@ const App = () => {
   const [anecdoteDay, setAnecdoteDay] = useState(0)
   const copy = [...points]
 
-  console.log(copy);
-
   const mostUpvoted = () => {
     let place = anecdoteDay;  
     let max = copy[anecdoteDay]; 
